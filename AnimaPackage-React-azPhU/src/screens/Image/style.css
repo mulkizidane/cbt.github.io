@@ -1,0 +1,13 @@
+.image {
+  height: 738px;
+  width: 1535px;
+}
+
+.image .exam {
+  height: 738px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  width: 1535px;
+}
